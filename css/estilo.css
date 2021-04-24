@@ -80,6 +80,10 @@ nav.navbar-transparente {
 	color: black; /*EFEITO PARA QUANDO PASSAR O MOUSE ELE FICA COM A COR PRETA*/
 }
 
+.carousel-control-next, .carousel-control-prev {
+	width: 5%;
+}
+
 /*Estrutura de conteúdos           
 -------------------------------*/
 .caixa {
